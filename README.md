@@ -13,26 +13,21 @@
 ---
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  $ whoami                                                           │
-│                                                                     │
-│  cathal@cloud:~$                                                    │
-│  Cloud Computing student @ TU Dublin                                │
-│                                                                     │
-│  Focus: infrastructure · networking · security · automation         │
-│                                                                     │
-│  cathal@cloud:~$ cat interests.txt                                  │
-│  → Cloud Infrastructure                                             │
-│  → DevOps & CI/CD                                                   │
-│  → Python Automation                                                │
-│  → Docker & Linux                                                   │
-│  → Monitoring & Observability                                       │
-│  → Networking & Security                                            │
-│                                                                     │
-│  cathal@cloud:~$ _                                                  │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  CATHAL FLOOD                                               │
+│  Cloud Computing • Infrastructure • DevOps                  │
+│                                                             │
+│  ┌──────────────────────┐  ┌─────────────────────────────┐  │
+│  │ $ whoami             │  │ OS: Windows / Linux         │  │
+│  │                      │  │ Cloud: AWS / Azure          │  │
+│  │ cathal@cloud         │  │ Languages: Python / C       │  │
+│  │                      │  │ DevOps: Docker / Git        │  │
+│  │ Cloud Computing      │  │ Monitoring: Grafana         │  │
+│  │ Student @ TU Dublin  │  │ Security: OAuth / RBAC      │  │
+│  └──────────────────────┘  └─────────────────────────────┘  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ## `> About Me`
