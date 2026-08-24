@@ -5,7 +5,7 @@
 ### Cloud Computing • Infrastructure • DevOps • Networking
 
 [![GitHub](https://img.shields.io/badge/GitHub-floodcathal-181717?style=for-the-badge&logo=github)](https://github.com/floodcathal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cathal-flood/)
 [![TU Dublin](https://img.shields.io/badge/TU_Dublin-Cloud_Computing-0b3d91?style=for-the-badge)](https://www.tudublin.ie/)
 
 </div>
@@ -17,18 +17,18 @@
 │                                                                     │
 │  $ whoami                                                           │
 │                                                                     │
-│  cathal@cloud:~$                                                   │
-│  Cloud Computing student @ TU Dublin                               │
+│  cathal@cloud:~$                                                    │
+│  Cloud Computing student @ TU Dublin                                │
 │                                                                     │
 │  Focus: infrastructure · networking · security · automation         │
 │                                                                     │
-│  cathal@cloud:~$ cat interests.txt                                 │
+│  cathal@cloud:~$ cat interests.txt                                  │
 │  → Cloud Infrastructure                                             │
-│  → DevOps & CI/CD                                                    │
-│  → Python Automation                                                 │
-│  → Docker & Linux                                                    │
-│  → Monitoring & Observability                                        │
-│  → Networking & Security                                             │
+│  → DevOps & CI/CD                                                   │
+│  → Python Automation                                                │
+│  → Docker & Linux                                                   │
+│  → Monitoring & Observability                                       │
+│  → Networking & Security                                            │
 │                                                                     │
 │  cathal@cloud:~$ _                                                  │
 │                                                                     │
