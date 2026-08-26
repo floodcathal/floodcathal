@@ -135,17 +135,19 @@ Validation / Data Pipeline
 
 ## `> GitHub Stats`
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=floodcathal&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floodcathal&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
+<!-- Rendered by .github/workflows/stats.yml and served from this repo, so they
+     cannot break when a shared third-party service runs out of API quota. -->
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=floodcathal&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./stats/overview-dark.svg">
+  <img alt="GitHub overview" src="./stats/overview-light.svg" width="400">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./stats/languages-dark.svg">
+  <img alt="Most used languages" src="./stats/languages-light.svg" width="400">
+</picture>
 
 </div>
 
